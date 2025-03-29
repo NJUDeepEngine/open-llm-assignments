@@ -6,7 +6,7 @@ You've journeyed from starting with pytorch to constructing a complete transform
 
 So in this assignment, we dive into Llama3.2, a SOTA lightweight dense LLM, exploring its end-to-end pipeline, including modeling, inference, and training.
 
-🔥 What'more, as the final assignment, for each basic task, we provide some additional hight-relative tasks but less guided and more challenging, giving you enough room to improvise and explore. Of-course, we will award **generous bonus points** for these extra tasks, with no upper limit (*which means, in theory, you can accomplish only one bonus task well enough to turn the tide and score full marks at the end*).
+🔥 What'more, for each basic task, we provide some additional hight-relative tasks but less guided and more challenging, giving you enough room to improvise and explore. Of-course, we will award **generous bonus points** for these extra tasks, with no upper limit (*which means, in theory, you can accomplish only one bonus task well enough to turn the tide and score full marks at the end*).
 
 
 ## Tasks (100 points + bonus🔥)
@@ -44,7 +44,7 @@ Please read the description [here](./tasks/task3.md).
 
 ## Scoring & Debug & Feedback 🛎️❗
 
-* Since the numerical errors might accumulate too much to be close to the reference implementation with the model goes deeper, as for the final assignment, we do **NOT** continue to adopt pytest-based test cases requiring exact closeness, neither to help you debug nor to evaluate your implementation.
+* Since the numerical errors might accumulate too much to be close to the reference implementation with the model goes deeper, as for this assignment, we do **NOT** continue to adopt pytest-based test cases requiring exact closeness, neither to help you debug nor to evaluate your implementation.
 * Instead, we will provide each task an ipython notebook named `test_toy_task{i}.ipynb` with the exported python script named `test_toy_task{i}.py` for the `i`-th task, in which we write down a toy tutorial to go through main functionalities that you're required to implement. In this way, you can directly run the notebook to debug and evaluate your own implementation, focusing **NOT** on precision, but on reasonableness.
 * To help you <u>deep debug</u>, as usual, we also provide the docker image tar file named `a_env_light_v{x}.tar` with the **close-sourced reference package** `ref` installed in it, and you can toggle on the boolean flag `TEST_WITH_REF` at the beginning of each notebook to run the cells using `ref` in that docker environment. The following commands show you how to run the toy test files with `ref` in the provided docker container (*to run the ipython notebook in the container, you might need to launch it with vscode attached*):
     ```sh
@@ -71,5 +71,4 @@ Please read the description [here](./tasks/task3.md).
 
 ## Contact
 
-* If you have any questions about the assignment, you can contact the teacher or any assistants directly through QQ group with the number `208283743`.
 * You can subscribe to the teacher's bilibili account with UID `390606417` and watch the online courses [here](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310).
