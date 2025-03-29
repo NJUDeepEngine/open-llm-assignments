@@ -1,4 +1,4 @@
-# llm-assignments - assignment-5-exploring-llama 🦙 (final)
+# llm-assignments - assignment-5-exploring-llama 🦙
 
 Congratulations!
 
