@@ -121,5 +121,4 @@ Please read the description [here](./tasks/task2.md).
 
 ## Contact
 
-* If you have any questions about the assignment, you can contact the teacher or any assistants directly through QQ group with the number `208283743`.
 * You can subscribe to the teacher's bilibili account with UID `390606417` and watch the online courses [here](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310).
