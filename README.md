@@ -1,8 +1,5 @@
 # llm-assignments - assignment-0-onboarding
-A collection of assignments on large language models, serving for both beginners to get started and pros to practice advanced tech.
 
-
-# 
 This assignment is designed to help you get familiar with the programming environment, submission process and basic pytorch functionalities. 
 
 By completing it, you'll ensure that your development setup is working properly, understand how to submit your work for future assignments, and strengthen your pytorch coding skills.
